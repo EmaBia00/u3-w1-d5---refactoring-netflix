@@ -3,7 +3,7 @@ import { Facebook, Instagram, Twitter, Youtube } from "react-bootstrap-icons";
 
 const Footer = () => {
   return (
-    <footer className="container gx-0 w-100 mx-auto mt-5">
+    <footer className="container gx-0 w-100 mx-auto mt-1">
       <div className="mx-auto" style={{ maxWidth: "650px" }}>
         <div className="d-flex justify-content-start gap-3 mb-4" style={{ marginTop: "3rem" }}>
           <Facebook width={20} height={20} color="grey" className="opacity-50" />

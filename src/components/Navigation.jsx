@@ -38,6 +38,8 @@ const Navigation = () => {
               <Dropdown.Menu className="bg-dark">
                 <Dropdown.Item href="#">Account</Dropdown.Item>
                 <Dropdown.Item href="#">Settings</Dropdown.Item>
+                <Dropdown.Divider />
+                <Dropdown.Item href="#">Exit</Dropdown.Item>
               </Dropdown.Menu>
             </Dropdown>
           </div>
