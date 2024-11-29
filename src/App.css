@@ -1,0 +1,10 @@
+body {
+    width: 90%;
+    margin-inline: auto;
+}
+
+.gallery-img {
+    height: 250px;
+    object-fit: cover;
+    width: 100%;
+}
